@@ -1,2 +1,11 @@
 # Student_grades_project
-A Python-based student marks and grades summary tool. This program takes student names and marks in three subjects as input, then calculates the total marks, average, and assigns a grade for each student. It also determines the class average and identifies the class topper.
+Student Grades and Marks Summary:
+
+This repository contains a Python program designed to handle and process student academic data. Using fundamental programming concepts, the script performs the following tasks:
+1. Total and Average Calculation: Computes the total marks and average for each student across three subjects.
+2. Grade Assignment: Assigns a letter grade (A, B, C, D, or F) based on the student's average score.
+3. Class Performance Metrics: Calculates the overall class average and identifies the student with the highest average score (the class topper).
+
+The program is an excellent example of basic data processing and conditional logic in Python.
+Input: Student names and marks in 3 subjects.
+Output: A summarized report displaying individual student performance and overall class statistics.
