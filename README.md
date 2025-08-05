@@ -7,5 +7,9 @@ This repository contains a Python program designed to handle and process student
 3. Class Performance Metrics: Calculates the overall class average and identifies the student with the highest average score (the class topper).
 
 The program is an excellent example of basic data processing and conditional logic in Python.
+
 Input: Student names and marks in 3 subjects.
 Output: A summarized report displaying individual student performance and overall class statistics.
+
+To run the project first enter the students name and their marks in three subjects do the same process till there are no students left. When there are no more students left to 
+grade type "done" in place of the students name and the code will evaluate the aforementioned tasks.
